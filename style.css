@@ -1,3 +1,7 @@
+.html{
+    scroll-behavior: smooth;
+}
+
 .navbar-brand{
     font-family: Knewave,Arial, Helvetica, sans-serif ;
 }
